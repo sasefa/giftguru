@@ -13,7 +13,7 @@ import NotFoundPage from './pages/NotFoundPage';
 // Context or hooks
 import { AuthProvider } from './context/AuthContext';
 
-import './App.css';
+import './assets';
 
 function App() {
   return (
